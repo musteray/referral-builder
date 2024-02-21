@@ -10,6 +10,7 @@ Referral back-end
 v21.5.0
 ```
 2. MongoDB container is running
+3. yarn install
 
 
 ### `npm dev`
